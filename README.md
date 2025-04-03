@@ -1,4 +1,4 @@
-Sentinel Data Downloader
+## Sentinel Data Downloader
 
 Downloads Sentinel data (of any Sentinel mission) based on user-set query parameters, from the Copernicus Data Space Ecosystem (CDSE, migrated to as of June 2023).
 E.g., download all Sentinel-2 data over the lat [0.0, 10.0] lon [0.0, 10.0] region, with cloud cover < 0.5.
